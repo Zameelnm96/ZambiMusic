@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zambi_Music_MVVM.iml" filepath="$PROJECT_DIR$/.idea/modules/Zambi_Music_MVVM.iml" group="Zambi_Music_MVVM" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Zambi_Music_MVVM/app" />
+    </modules>
+  </component>
+</project>
